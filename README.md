@@ -11,7 +11,7 @@ This project is part of a machine learning coursework and focuses on applying tw
 
 - `Marco2020333_ML_CA2.ipynb` – Main Jupyter Notebook containing all code, analysis, and visualizations
 - `BankRecords.csv` – Dataset used for the neural network regression task (not included due to size/privacy)
-- Text data – Collected from a social media platform for sentiment analysis
+- `Text data` – Collected from a social media platform for sentiment analysis
 
 ---
 
